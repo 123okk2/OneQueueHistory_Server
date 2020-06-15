@@ -2,13 +2,14 @@
 한끝 한국사 서버_RESTFUL API
 
 ## 주제
-유아용 간단한 게임 제작
+한국사능력검정시험 대비 어플리케이션 제작
 
 ## 핵심 기능
 ![기능 리스트](https://user-images.githubusercontent.com/51351974/84655729-6e3ba780-af4c-11ea-893a-bc9769dafac4.jpg)
 
 
 ## 간략한 구조도
+![구조](https://user-images.githubusercontent.com/51351974/84655841-a6db8100-af4c-11ea-856e-35e7664259e1.png)
 
 ## UI
 * 로그인 및 회원가입
