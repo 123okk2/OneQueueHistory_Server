@@ -52,5 +52,5 @@ Application which helps people to study Korean history 2020년 1학기 창의융
 * 본 시스템은 상업적인 목적으로 활용되지 않았으며, 오로지 프로그래밍 연습용으로 활용되었다.
 
 ## Other
-* Android : https://github.com/123okk2/OneQueueHistory_Application/blob/master/README.md
+* Android : https://github.com/123okk2/OneQueueHistory_Application
 * SentenceMaker : https://github.com/123okk2/OneQueueHistory_SentenceMaker
