@@ -5,20 +5,26 @@
 유아용 간단한 게임 제작
 
 ## 핵심 기능
-> 마르코브 체인을 활용한 문장 제작
-> 단어 맞추기
-> 문장 맞추기
+![기능 리스트](https://user-images.githubusercontent.com/51351974/84655729-6e3ba780-af4c-11ea-893a-bc9769dafac4.jpg)
+
 
 ## 간략한 구조도
 
 ## UI
 * 로그인 및 회원가입
+![1](https://user-images.githubusercontent.com/51351974/84655737-71cf2e80-af4c-11ea-8c60-0e1d18ea7b4e.jpg)
 * 회원 관련 기능
+![2](https://user-images.githubusercontent.com/51351974/84655739-7267c500-af4c-11ea-8723-c028392aaf6c.jpg)
 * 회차별 문제풀기
+![3](https://user-images.githubusercontent.com/51351974/84655740-7267c500-af4c-11ea-8d51-54099720264a.jpg)
 * 랜덤 문제풀기
+![4](https://user-images.githubusercontent.com/51351974/84655741-73005b80-af4c-11ea-8658-222847d4c4b7.jpg)
 * 빈 칸 맞추기
+![5](https://user-images.githubusercontent.com/51351974/84655742-73005b80-af4c-11ea-81c2-d609d797d58b.jpg)
 * 오답노트
+![6](https://user-images.githubusercontent.com/51351974/84655744-7398f200-af4c-11ea-9f6b-6077ad949fec.jpg)
 * 취약점 분석
+![7](https://user-images.githubusercontent.com/51351974/84655745-7398f200-af4c-11ea-92a4-271249825ac1.jpg)
 
 ## Made By
 * 이민우 : 서버 백엔드, Marcov 문장 생성, 안드로이드 전담
