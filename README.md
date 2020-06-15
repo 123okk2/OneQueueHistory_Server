@@ -13,11 +13,20 @@
 
 ## UI
 <center>로그인 및 회원가입</center><br>
-![1](https://user-images.githubusercontent.com/51351974/84655737-71cf2e80-af4c-11ea-8c60-0e1d18ea7b4e.jpg)<br>
+
+![1](https://user-images.githubusercontent.com/51351974/84655737-71cf2e80-af4c-11ea-8c60-0e1d18ea7b4e.jpg)
+
+<br>
 <center>회원 관련 기능</center><br>
-![2](https://user-images.githubusercontent.com/51351974/84655739-7267c500-af4c-11ea-8723-c028392aaf6c.jpg)<br>
+
+![2](https://user-images.githubusercontent.com/51351974/84655739-7267c500-af4c-11ea-8723-c028392aaf6c.jpg)
+
+<br>
 <center>회차별 문제풀기</center><br>
-![3](https://user-images.githubusercontent.com/51351974/84655740-7267c500-af4c-11ea-8d51-54099720264a.jpg)<br>
+
+![3](https://user-images.githubusercontent.com/51351974/84655740-7267c500-af4c-11ea-8d51-54099720264a.jpg)
+
+<br>
 <center>랜덤 문제풀기</center><br>
 ![4](https://user-images.githubusercontent.com/51351974/84655741-73005b80-af4c-11ea-8658-222847d4c4b7.jpg)<br>
 <center>빈 칸 맞추기</center><br>
