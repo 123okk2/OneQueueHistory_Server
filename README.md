@@ -1,5 +1,7 @@
 # OneQueueHistory_Server
-한끝 한국사 서버_RESTFUL API
+Application which helps people to study Korean history 2020년 1학기 창의융합종합설계 팀과제.<br>
+한국사능력검정시험 학습 어플리케이션<br>
+한끝 한국사 서버_RESTFUL API<br>
 
 ## 주제
 한국사능력검정시험 대비 어플리케이션 제작
@@ -48,3 +50,7 @@
 ## References
 * 마르코브 체인은 해당 도서의 코드를 인용하여 작성했다. : https://wikibook.co.kr/python-machine-learning/
 * 본 시스템은 상업적인 목적으로 활용되지 않았으며, 오로지 프로그래밍 연습용으로 활용되었다.
+
+## Other
+* Android : https://github.com/123okk2/OneQueueHistory_Application/blob/master/README.md
+* SentenceMaker : 
