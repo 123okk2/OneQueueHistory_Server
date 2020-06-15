@@ -53,4 +53,4 @@ Application which helps people to study Korean history 2020년 1학기 창의융
 
 ## Other
 * Android : https://github.com/123okk2/OneQueueHistory_Application/blob/master/README.md
-* SentenceMaker : 
+* SentenceMaker : https://github.com/123okk2/OneQueueHistory_SentenceMaker
