@@ -12,19 +12,19 @@
 ![구조](https://user-images.githubusercontent.com/51351974/84655841-a6db8100-af4c-11ea-856e-35e7664259e1.png)
 
 ## UI
-* 로그인 및 회원가입
+<center>로그인 및 회원가입</center><br>
 ![1](https://user-images.githubusercontent.com/51351974/84655737-71cf2e80-af4c-11ea-8c60-0e1d18ea7b4e.jpg)
-* 회원 관련 기능
+<center>회원 관련 기능</center><br>
 ![2](https://user-images.githubusercontent.com/51351974/84655739-7267c500-af4c-11ea-8723-c028392aaf6c.jpg)
-* 회차별 문제풀기
+<center>회차별 문제풀기</center><br>
 ![3](https://user-images.githubusercontent.com/51351974/84655740-7267c500-af4c-11ea-8d51-54099720264a.jpg)
-* 랜덤 문제풀기
+<center>랜덤 문제풀기</center><br>
 ![4](https://user-images.githubusercontent.com/51351974/84655741-73005b80-af4c-11ea-8658-222847d4c4b7.jpg)
-* 빈 칸 맞추기
+<center>빈 칸 맞추기</center><br>
 ![5](https://user-images.githubusercontent.com/51351974/84655742-73005b80-af4c-11ea-81c2-d609d797d58b.jpg)
-* 오답노트
+<center>오답노트</center><br>
 ![6](https://user-images.githubusercontent.com/51351974/84655744-7398f200-af4c-11ea-9f6b-6077ad949fec.jpg)
-* 취약점 분석
+<center>취약점 분석</center><br>
 ![7](https://user-images.githubusercontent.com/51351974/84655745-7398f200-af4c-11ea-92a4-271249825ac1.jpg)
 
 ## Made By
